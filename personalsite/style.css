@@ -1,0 +1,109 @@
+body {
+	margin: 0px;
+	text-align: center;
+}
+h1 {
+
+    font-size: 50px;
+	font-family: 'Lobster', cursive;
+	color:  #00bcd4;
+	
+}
+h2 {
+  font-family: 'Dancing Script', cursive;
+  color:  #00bcd4;
+}
+h3 {
+	color: #00bcd4;
+}
+hr {
+	border-style: dotted none none none;
+   border-width: 10px;
+   width: 70px;
+   color: #d3dbff;
+
+}
+
+
+.top-container {
+	position: relative;
+	
+	background-color: #e4f9ff;
+	padding-top: 100px;
+}
+.top-cloud {
+	position:absolute;
+	top:3rem;
+	right: 25rem;
+
+
+}
+.bottom-cloud {
+	position: absolute;
+	left:25rem;
+}
+.img1 ,.img2, .img3 {
+	width: 200px;
+	height: 200px;
+	margin-top: 2rem;
+	border-radius: 100%;
+}
+.bottom-container {
+	background-color: #848ccf;
+	margin-top: 2rem;
+	padding: 1rem;
+	color: white; 
+}
+p{
+	font-family: 'Courgette', cursive;
+}
+.img3 {
+	float: left;
+}
+.img2 {
+ float: right;
+ margin-left: 3rem;
+}
+.skill-row {
+	width: 50%;
+	margin: 100px auto;
+	line-height: 2rem;
+	margin-bottom: 2rem;
+	padding: 2rem;
+
+}
+.contact-me {
+	margin-top: 10rem;
+}
+.btn {
+	box-shadow:inset 0px -3px 7px 0px #29bbff;
+	background-color:#2dabf9;
+	border-radius:9px;
+	border:1px solid #0b0e07;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-style:italic;
+	padding:12px 43px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.btn:hover {
+	background-color:#0688fa;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link {
+	padding: 1rem;
+}
+.p1 {
+	width: 50%;
+	margin: auto;
+	line-height: 2rem;
+	
+}
